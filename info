@@ -2,7 +2,7 @@
   "name": "NebulaX",
   "symbol": "NBX",
   "uri": "https://github.com/james80000/nebulax-metadata/main/nbx-logo.png",  
-  "seller_fee_basis_points": 500, 
+  "seller_fee_basis_points": 10, 
   "creators": [
     {
       "address": "JA6RkhPqb2Wvy4ohJspEaWu56gp9UYZqfJWdr6Pv82ds",
